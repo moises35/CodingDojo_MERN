@@ -1,0 +1,13 @@
+.app{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    align-items: flex-start;
+}
